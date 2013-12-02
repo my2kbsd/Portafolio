@@ -1,9 +1,7 @@
-Vamos bien con los cambios
-...
+Miguel Angel
 
-pero esperaremos que funcione mejor
-ok funcionando...
+PHP
 
+Java
 
-
-
+Sql server
